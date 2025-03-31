@@ -55,7 +55,11 @@ fields_of_interest:
 <!-- ******************************************************************************** -->
 
 <!-- Snake Animation 🐍 -->
-<!-- ![Snake Animation](https://github.com/DevYouriD/DevYouriD/blob/output/github-contribution-grid-snake.svg) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DevYouriD/DevYouriD/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DevYouriD/DevYouriD/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DevYouriD/DevYouriD/output/github-snake.svg" />
+</picture>
 
 <!-- ******************************************************************************** -->
 
@@ -70,8 +74,6 @@ fields_of_interest:
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devyourid&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 100%; max-width: 500px; height: 200px;">
 </div>
-
-
 
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=devyourid&theme=dracula&hide_border=false) -->
 
